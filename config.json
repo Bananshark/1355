@@ -15,7 +15,7 @@
     "description": "UI文本配置"
   },
   "mindFile": {
-    "path": "./mind/bisai1.mind",
+    "path": "./mind/cansai.mind",
     "maxTrack": 20,
     "description": "MindAR识别文件路径，maxTrack表示最大同时跟踪的目标数量"
   },
